@@ -1,0 +1,10 @@
+# Appendices go here.
+#
+# Naming: single uppercase letter prefix, hyphen, lowercase slug.
+#   A-interview-questions.md
+#   B-coding-challenges.md
+#   F-cheatsheet.md
+#   G-glossary.md
+#
+# Letters must match the appendix table in the topic README.
+# Delete this file once you have added a real appendix.
