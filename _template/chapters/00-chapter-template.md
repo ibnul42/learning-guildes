@@ -2,7 +2,7 @@
 
 <!--
   Copy this file to NN-slug.md and delete every HTML comment as you go.
-  The section order below is the contract. See ../../CONTRIBUTING.md.
+  The section order below is the contract. See ../../CLAUDE.md.
 -->
 
 ## Learning Objectives

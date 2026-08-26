@@ -4,7 +4,7 @@ This book is **complete**: 33 chapters and 7 appendices. This file used to be a 
 for finishing it; it now records the conventions it was written to, so edits and additions stay
 consistent.
 
-For repository-wide conventions, see [../CONTRIBUTING.md](../CONTRIBUTING.md).
+For repository-wide conventions, see [../CLAUDE.md](../CLAUDE.md) and [../_template/](../_template/).
 
 ---
 

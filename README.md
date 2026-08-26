@@ -14,13 +14,19 @@ code you can actually run.
 
 | Topic | Status | Size | Contents |
 |-------|--------|------|----------|
-| [JavaScript](javascript/) | Complete | 33 chapters + 7 appendices | Fundamentals → engine internals → async → the browser → security, testing, performance, patterns. Plus 1,170 questions with answers, 121 coding challenges with worked solutions, 20 project specs, a 199-item best-practices checklist, a cheat sheet, and a 204-term glossary. |
+| [JavaScript](javascript/README.md) | Complete | 33 chapters + 7 appendices | Fundamentals → engine internals → async → the browser → security, testing, performance, patterns. Plus 1,170 questions with answers, 121 coding challenges with worked solutions, 20 project specs, a 199-item best-practices checklist, a cheat sheet, and a 204-term glossary. |
+| [NestJS](nestjs/README.md) | Complete | 36 chapters + 7 appendices | The framework and the architecture behind it: modules and DI → the request pipeline → data and TypeORM → auth → GraphQL, microservices, and queues → testing and production. Plus 1,239 questions with answers, 112 coding challenges with worked solutions, 20 project specs, a 232-item best-practices checklist, a cheat sheet, and a 186-term glossary. Targets NestJS 11 on Node 20+. |
 
 **Suggested entry points for the JavaScript book:** start at
 [Chapter 1](javascript/chapters/01-how-javascript-works.md) for a linear read, the
 [roadmap](javascript/appendices/D-roadmap.md) for a staged plan with checkpoints, or the
 [interview questions](javascript/appendices/A-interview-questions.md) to find out what you don't
 know yet.
+
+**Suggested entry points for the NestJS book:** it assumes you know JavaScript and have
+built an HTTP API before. Start at [Chapter 1](nestjs/chapters/01-what-nestjs-is.md) for a
+linear read, the [roadmap](nestjs/appendices/D-roadmap.md) for a staged plan, or the
+[interview questions](nestjs/appendices/A-interview-questions.md) to find your gaps.
 
 ---
 
