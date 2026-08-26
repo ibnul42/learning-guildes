@@ -1,7 +1,5 @@
 # JavaScript: From Fundamentals to Expert
 
-> **Status — complete.** All 33 chapters and 7 appendices: ~148,000 words, 1,170 questions with
-> answers (830 in the chapters, 340 in Appendix A), and 121 coding challenges with worked solutions.
 
 **A practical, interview-ready guide to modern JavaScript (ES2025+)**
 
