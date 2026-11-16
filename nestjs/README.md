@@ -2,7 +2,7 @@
 
 **A practical, interview-ready guide to NestJS 11 — the framework, the architecture behind it, and the decisions you'll defend in a senior interview.**
 
-> **Status — complete.** All 36 chapters and 7 appendices: ~175,000 words, 1,239 questions
+> **Status — complete.** All 36 chapters and 7 appendices, 1,239 questions
 > with answers (899 in the chapters, 340 in Appendix A), and 112 coding challenges with worked
 > solutions.
 
